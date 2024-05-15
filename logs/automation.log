@@ -1,0 +1,65 @@
+16:19:01.894 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\API_Automation_Raghunath\testng.xml
+
+16:19:04.537 [main] INFO  api.test.UserTests - ************* creating the user ****************
+16:19:13.071 [main] INFO  api.test.UserTests - ************* User is Created ****************
+16:56:31.820 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\API_Automation_Raghunath\testng.xml
+
+16:56:33.350 [main] INFO  api.test.UserTests - ************* creating the user ****************
+16:56:38.726 [main] INFO  api.test.UserTests - ************* User is Created ****************
+16:56:38.774 [main] INFO  api.test.UserTests - ************* getting the user info****************
+16:56:39.954 [main] INFO  api.test.UserTests - ************* user info getting displayed ****************
+16:56:39.961 [main] INFO  api.test.UserTests - ************* updating the user ****************
+16:56:41.117 [main] INFO  api.test.UserTests - ************* user updated ****************
+16:56:42.360 [main] INFO  api.test.UserTests - ************* deleting the user ****************
+16:56:43.588 [main] INFO  api.test.UserTests - ************* user deleted ****************
+17:34:52.365 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\API_Automation_Raghunath\testng.xml
+
+17:34:53.557 [main] INFO  api.test.UserTests - ************* creating the user ****************
+17:34:58.711 [main] INFO  api.test.UserTests - ************* User is Created ****************
+17:34:58.756 [main] INFO  api.test.UserTests - ************* getting the user info****************
+17:35:00.063 [main] INFO  api.test.UserTests - ************* user info getting displayed ****************
+17:35:00.069 [main] INFO  api.test.UserTests - ************* updating the user ****************
+17:35:01.289 [main] INFO  api.test.UserTests - ************* user updated ****************
+17:35:02.523 [main] INFO  api.test.UserTests - ************* deleting the user ****************
+17:35:03.719 [main] INFO  api.test.UserTests - ************* user deleted ****************
+18:32:31.386 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\API_Automation_Raghunath\testng.xml
+
+18:32:33.357 [main] INFO  api.test.UserTests2 - ************* creating the user ****************
+18:32:43.663 [main] INFO  api.test.UserTests2 - ************* User is Created ****************
+18:32:43.792 [main] INFO  api.test.UserTests2 - ************* getting the user info****************
+18:32:45.172 [main] INFO  api.test.UserTests2 - ************* user info getting displayed ****************
+18:32:45.178 [main] INFO  api.test.UserTests2 - ************* updating the user ****************
+18:32:46.508 [main] INFO  api.test.UserTests2 - ************* user updated ****************
+18:32:47.663 [main] INFO  api.test.UserTests2 - ************* deleting the user ****************
+18:32:48.804 [main] INFO  api.test.UserTests2 - ************* user deleted ****************
+18:46:49.310 [main] INFO  api.test.UserTests2 - ************* creating the user ****************
+18:46:54.626 [main] INFO  api.test.UserTests2 - ************* User is Created ****************
+18:46:54.688 [main] INFO  api.test.UserTests2 - ************* getting the user info****************
+18:46:55.904 [main] INFO  api.test.UserTests2 - ************* user info getting displayed ****************
+18:46:55.907 [main] INFO  api.test.UserTests2 - ************* updating the user ****************
+18:46:57.176 [main] INFO  api.test.UserTests2 - ************* user updated ****************
+18:46:58.313 [main] INFO  api.test.UserTests2 - ************* deleting the user ****************
+18:46:59.540 [main] INFO  api.test.UserTests2 - ************* user deleted ****************
+09:20:37.521 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\API_Automation_Raghunath\testng.xml
+
+09:20:39.253 [main] INFO  api.test.UserTests2 - ************* creating the user ****************
+09:20:46.977 [main] INFO  api.test.UserTests2 - ************* User is Created ****************
+09:20:47.016 [main] INFO  api.test.UserTests2 - ************* getting the user info****************
+09:20:48.265 [main] INFO  api.test.UserTests2 - ************* user info getting displayed ****************
+09:20:48.271 [main] INFO  api.test.UserTests2 - ************* updating the user ****************
+09:20:49.431 [main] INFO  api.test.UserTests2 - ************* user updated ****************
+09:20:50.635 [main] INFO  api.test.UserTests2 - ************* deleting the user ****************
+09:20:51.855 [main] INFO  api.test.UserTests2 - ************* user deleted ****************
+09:39:11.635 [main] INFO  api.test.UserTests2 - ************* creating the user ****************
+09:39:19.322 [main] INFO  api.test.UserTests2 - ************* User is Created ****************
+09:39:19.355 [main] INFO  api.test.UserTests2 - ************* getting the user info****************
+09:39:20.992 [main] INFO  api.test.UserTests2 - ************* user info getting displayed ****************
+09:39:20.998 [main] INFO  api.test.UserTests2 - ************* updating the user ****************
+09:39:22.322 [main] INFO  api.test.UserTests2 - ************* user updated ****************
+09:39:23.950 [main] INFO  api.test.UserTests2 - ************* deleting the user ****************
+09:39:25.821 [main] INFO  api.test.UserTests2 - ************* user deleted ****************

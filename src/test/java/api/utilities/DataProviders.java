@@ -1,0 +1,60 @@
+package api.utilities;
+
+import java.io.IOException;
+
+import org.testng.annotations.DataProvider;
+
+public class DataProviders {
+
+	
+	
+	@DataProvider(name= "Data")
+	
+	public String[][] getAllData() throws IOException{
+		
+		
+		String path = System.getProperty("user.dir")+"//testData//UserData.xlsx";
+		ExcelUtility excel = new ExcelUtility(path);
+		
+		int rowNum = excel.getRowCount("Sheet1");
+		int cellCount= excel.getCellCount("Sheet1", 1);
+		
+		String apidata[][]= new String[rowNum][cellCount];
+		
+		for(int i=1;i<=rowNum;i++)
+		{
+			for(int j=0; j<cellCount;j++) 
+			{
+			apidata[i-1][j]=excel.getCellData("Sheet1", i, j);	
+			}
+			
+		}
+		return apidata;
+		
+	}
+	
+	@DataProvider(name="UserNames")
+   public String[] getUserNames() throws IOException{
+		
+		
+		String path = System.getProperty("user.dir")+"//testData//UserData.xlsx";
+		ExcelUtility excel = new ExcelUtility(path);
+		
+		int rowNum = excel.getRowCount("Sheet1");
+		
+		
+		String apidata[]= new String[rowNum];
+		
+		for(int i=1;i<=rowNum;i++)
+		{
+			
+		apidata[i-1]=excel.getCellData("Sheet1", i, 1);	
+			}
+			
+		
+		return apidata;
+		
+	}
+	
+
+}
