@@ -63,3 +63,14 @@
 09:39:22.322 [main] INFO  api.test.UserTests2 - ************* user updated ****************
 09:39:23.950 [main] INFO  api.test.UserTests2 - ************* deleting the user ****************
 09:39:25.821 [main] INFO  api.test.UserTests2 - ************* user deleted ****************
+15:54:45.248 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\API_Automation_Raghunath\testng.xml
+
+15:54:46.808 [main] INFO  api.test.UserTests2 - ************* creating the user ****************
+15:54:52.335 [main] INFO  api.test.UserTests2 - ************* User is Created ****************
+15:54:52.373 [main] INFO  api.test.UserTests2 - ************* getting the user info****************
+15:54:53.730 [main] INFO  api.test.UserTests2 - ************* user info getting displayed ****************
+15:54:53.738 [main] INFO  api.test.UserTests2 - ************* updating the user ****************
+15:54:54.986 [main] INFO  api.test.UserTests2 - ************* user updated ****************
+15:54:56.157 [main] INFO  api.test.UserTests2 - ************* deleting the user ****************
+15:54:57.322 [main] INFO  api.test.UserTests2 - ************* user deleted ****************
